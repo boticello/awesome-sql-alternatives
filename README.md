@@ -9,13 +9,15 @@ A list of non-SQL query languages which run on relational databases.
 ### [Malloy](https://github.com/looker-open-source/malloy) (BigQuery)
 > Malloy is an experimental language for describing data relationships and transformations. Akin to a SQL “extension,” it is far easier to use and reason about than SQL, it is usable in place of SQL, and it is quick to pick up for SQL users.
 
-### [Datalog Educational System](http://des.sourceforge.net/)
-> The Datalog Educational System is a deductive database system with Datalog, SQL, Relational Algebra, Tuple Relational Calculus and Domain Relational Calculus as query languages. 
-
 ## Commercial
 
 ### [Rel](https://docs.relational.ai/rel/intro/overview/) (RelationalAI)
 
 > Rel is an expressive, declarative, and relational language designed for modeling domain knowledge.
 
-It is a subset of Julia, and runs on the RelationalAI cloud database.
+A subset of Julia.
+
+## See also
+
+### [Datalog Educational System](http://des.sourceforge.net/)
+> The Datalog Educational System is a deductive database system with Datalog, SQL, Relational Algebra, Tuple Relational Calculus and Domain Relational Calculus as query languages. 
