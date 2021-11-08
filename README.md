@@ -26,8 +26,7 @@ A list of non-SQL data languages which run on relational databases.
 ### [Datalog Educational System](http://des.sourceforge.net/)
 > The Datalog Educational System is a deductive database system with Datalog, SQL, Relational Algebra, Tuple Relational Calculus and Domain Relational Calculus as query languages. 
 
-## Multi-model databases
-Relational operators in non-relational databases.
+## Relational operators in non-relational databases
 
 ### [Optic API](https://docs.marklogic.com/guide/app-dev/OpticAPI) (Marklogic)
 > The MarkLogic Optic API makes it possible to perform relational operations on indexed values and documents.
