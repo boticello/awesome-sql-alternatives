@@ -20,8 +20,15 @@ A list of non-SQL data languages which run on relational databases.
 
 ## Educational
 
+### [Tutorial D](https://github.com/DaveVoorhis/Rel) (Rel)
+> Rel is a desktop database management system that implements Date & Darwen's "Tutorial D" database language.
+
 ### [Datalog Educational System](http://des.sourceforge.net/)
 > The Datalog Educational System is a deductive database system with Datalog, SQL, Relational Algebra, Tuple Relational Calculus and Domain Relational Calculus as query languages. 
 
-### [Tutorial D](https://github.com/DaveVoorhis/Rel) (Rel)
-> Rel is a desktop database management system that implements Date & Darwen's "Tutorial D" database language.
+## Multi-model databases
+Relational operators in non-relational databases.
+
+### [Optic API](https://docs.marklogic.com/guide/app-dev/OpticAPI) (Marklogic)
+> The MarkLogic Optic API makes it possible to perform relational operations on indexed values and documents. The Optic API allows you to use your data as-is and makes it possible to make use of MarkLogic document and search features using JavaScript or XQuery syntax, incorporating common SQL concepts, regardless of the structure of your data.
+
