@@ -15,8 +15,6 @@ A list of non-SQL query languages which run on relational databases.
 
 > Rel is an expressive, declarative, and relational language designed for modeling domain knowledge.
 
-A subset of Julia.
-
 ## See also
 
 ### [Datalog Educational System](http://des.sourceforge.net/)
