@@ -1,5 +1,5 @@
 # Awesome SQL alternatives
-A list of non-SQL query languages which run on relational databases.
+A list of non-SQL data languages which run on relational databases.
 
 ## Open-source
 
