@@ -9,8 +9,8 @@ A list of non-SQL data languages which run on relational databases.
 ### [Malloy](https://github.com/looker-open-source/malloy) (BigQuery)
 > Malloy is an experimental language for describing data relationships and transformations. Akin to a SQL “extension,” it is far easier to use and reason about than SQL, it is usable in place of SQL, and it is quick to pick up for SQL users.
 
-### [openCypher (AgensGraph)](https://github.com/bitnine-oss/agensgraph) (PostgreSQL)
-> openCypher is the most widely adopted, fully-specified, and open query language for property graph databases. ANSI-SQL queries and Cypher queries can be integrated into a single query in **AgensGraph**.
+### [openCypher](https://github.com/bitnine-oss/agensgraph) (PostgreSQL)
+> [openCypher](http://opencypher.org/) is the most widely adopted, fully-specified, and open query language for property graph databases. ANSI-SQL queries and Cypher queries can be integrated into a single query in [AgensGraph](https://bitnine.net/agensgraph/).
 
 ## Commercial
 
