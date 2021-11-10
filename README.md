@@ -1,8 +1,8 @@
 # Awesome SQL alternatives
-A list of non-SQL data languages which run on relational databases.
 
-### [PartiQL](https://partiql.org/tutorial.html)
-> PartiQL’s extensions to SQL are easy to understand, treat nested data as first class citizens and compose seamlessly with each other and SQL. This enables intuitive filtering, joining and aggregation on the combination of structured, semistructured and nested datasets.
+## Relational databases
+
+Non-SQL query languages which operate on a relational database.
 
 ### [Logica](https://github.com/EvgSkv/logica) (BigQuery, SQLite, PostgreSQL)
 > Logica is a logic programming language that compiles to StandardSQL.
@@ -16,6 +16,12 @@ A list of non-SQL data languages which run on relational databases.
 ### [Rel](https://docs.relational.ai/rel/intro/overview/) (RelationalAI)
 
 > Rel is an expressive, declarative, and relational language designed for modeling domain knowledge.
+
+## Poly-store
+Query languages which operate on both relational and non-relational data
+
+### [PartiQL](https://partiql.org/tutorial.html)
+> PartiQL’s extensions to SQL are easy to understand, treat nested data as first class citizens and compose seamlessly with each other and SQL. This enables intuitive filtering, joining and aggregation on the combination of structured, semistructured and nested datasets.
 
 ## Educational
 
