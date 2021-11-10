@@ -1,7 +1,8 @@
 # Awesome SQL alternatives
 A list of non-SQL data languages which run on relational databases.
 
-## Open-source
+### [PartiQL](https://partiql.org/tutorial.html)
+> PartiQL’s extensions to SQL are easy to understand, treat nested data as first class citizens and compose seamlessly with each other and SQL. This enables intuitive filtering, joining and aggregation on the combination of structured, semistructured and nested datasets.
 
 ### [Logica](https://github.com/EvgSkv/logica) (BigQuery, SQLite, PostgreSQL)
 > Logica is a logic programming language that compiles to StandardSQL.
@@ -11,8 +12,6 @@ A list of non-SQL data languages which run on relational databases.
 
 ### [openCypher](https://github.com/bitnine-oss/agensgraph) (PostgreSQL)
 > [openCypher](http://opencypher.org/) is the most widely adopted, fully-specified, and open query language for property graph databases. ANSI-SQL queries and Cypher queries can be integrated into a single query in [AgensGraph](https://bitnine.net/agensgraph/).
-
-## Commercial
 
 ### [Rel](https://docs.relational.ai/rel/intro/overview/) (RelationalAI)
 
