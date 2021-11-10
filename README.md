@@ -20,7 +20,7 @@ Non-SQL query languages which operate on a relational database.
 ## Poly-store
 Query languages which operate on both relational and non-relational data
 
-### [PartiQL](https://partiql.org/tutorial.html)
+### [PartiQL](https://partiql.org/tutorial.html) (AWS various, others)
 > PartiQL’s extensions to SQL are easy to understand, treat nested data as first class citizens and compose seamlessly with each other and SQL. This enables intuitive filtering, joining and aggregation on the combination of structured, semistructured and nested datasets.
 
 ## Educational
