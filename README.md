@@ -2,11 +2,28 @@
 
 ## Relational data
 
-- [Logica](https://github.com/EvgSkv/logica) – logic programming language that compiles to Standard SQL (BigQuery, SQLite, PostgreSQL)
+### SQL transpilers
+
+- [PRQL](https://github.com/max-sixty/prql) – simpler and more powerful SQL 
+- [Logica](https://github.com/EvgSkv/logica) – logic programming language (BigQuery, SQLite, PostgreSQL)
+- [Cytosm](https://github.com/cytosm/cytosm) – Cypher to SQL
+- [HTSQL](https://www.htsql.org/doc/overview.html) – XPath-like navigational query language for relational databases and web service gateways (PostgreSQL, MySQL, SQLite, Oracle, Microsoft SQL Server)
+
+### Other
 - [Malloy](https://github.com/looker-open-source/malloy) – an experimental language for describing data relationships and transformations, akin to a SQL extension (BigQuery)
 - [Flux](https://docs.influxdata.com/flux/) – functional data scripting language (**InfluxDB**, MySQL, PostgreSQL, CSV)
-- [openCypher on AgensGraph](https://github.com/bitnine-oss/agensgraph) – SQL and [Cypher](http://opencypher.org/) queries can be integrated into a single query in [AgensGraph](https://bitnine.net/agensgraph/). (AgensGraph, built on PostgreSQL)
+
+### Language extensions
+- [FunSQL.jl](https://github.com/MechanicalRabbit/FunSQL.jl) – Julia library for compositional construction of SQL queries
+- [TreSQL](https://github.com/mrumkovskis/tresql) – JDBC-based query language built on SQL that selects data into hierarchical JSON objects
+
+### Custom databases
 - [Rel](https://docs.relational.ai/rel/intro/overview/) – an expressive, declarative, and relational language designed for modeling domain knowledge (RelationalAI)
+- [openCypher](https://github.com/bitnine-oss/agensgraph) – SQL and [Cypher](http://opencypher.org/) queries can be integrated into a single query ([AgensGraph](https://bitnine.net/agensgraph/), built on PostgreSQL)
+- EdgeQL
+- 
+
+
 
 ## Poly-store
 Query languages which operate on both relational and non-relational data
