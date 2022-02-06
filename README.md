@@ -43,9 +43,10 @@ Query languages which operate on both relational and non-relational data
 
 ## ORM
 
-### Python
 - [Pony](https://github.com/ponyorm/pony/) – writes queries to the database using Python generator expressions and lambdas, analyzing the abstract syntax tree of the expression and translating it into a SQL query (SQLite, MySQL, PostgreSQL and Oracle)
-- [PINQ](https://macropy3.readthedocs.io/en/latest/pinq.html#pinq) – write your database queries like queries on in-memory lists (uses SQLAlchemy)
+- [PINQ](https://macropy3.readthedocs.io/en/latest/pinq.html#pinq) – write your database queries like queries on in-memory Python lists (uses SQLAlchemy)
+- [LINQ to SQL](https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/sql/linq/) – a .NET component that provides a run-time infrastructure for managing relational data as objects
+
 
 ## Using SQL
 
