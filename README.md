@@ -13,14 +13,18 @@
 - [Malloy](https://github.com/looker-open-source/malloy) – an experimental language for describing data relationships and transformations, akin to a SQL extension (BigQuery)
 - [Flux](https://docs.influxdata.com/flux/) – functional data scripting language (**InfluxDB**, MySQL, PostgreSQL, CSV)
 
-### Language extensions
-- [FunSQL.jl](https://github.com/MechanicalRabbit/FunSQL.jl) – Julia library for compositional construction of SQL queries
-- [TreSQL](https://github.com/mrumkovskis/tresql) – JDBC-based query language built on SQL that selects data into hierarchical JSON objects
+### Language or platform-specific
+- [FunSQL.jl](https://github.com/MechanicalRabbit/FunSQL.jl) – library for compositional construction of SQL queries (Julia)
+- [TreSQL](https://github.com/mrumkovskis/tresql) – query language built on SQL that selects data into hierarchical JSON objects (JDBC)
+- [Kusto Query Language](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/) – requests are stated in plain text using a data-flow model that is easy to read, author, and automate (Azure)
+- [Cloudwatch Logs Insight query language](https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/CWL_QuerySyntax.html) – (Cloudwatch)
+- [dplyr](https://github.com/tidyverse/dplyr/) – grammar of data manipulation, providing a consistent set of verbs (R)
+- [SQL Frames](https://sqlframes.com/docs/sql_frames/intro) – low code data management framework that can be directly embedded in the browser to provide rich data visualization and UX (web)
 
 ### Custom databases
 - [Rel](https://docs.relational.ai/rel/intro/overview/) – an expressive, declarative, and relational language designed for modeling domain knowledge (RelationalAI)
 - [openCypher](https://github.com/bitnine-oss/agensgraph) – SQL and [Cypher](http://opencypher.org/) queries can be integrated into a single query ([AgensGraph](https://bitnine.net/agensgraph/), built on PostgreSQL)
-- EdgeQL
+- [EdgeQL](https://www.edgedb.com/tutorial) 
 - 
 
 
@@ -35,6 +39,7 @@ Query languages which operate on both relational and non-relational data
 - [Morel](https://github.com/julianhyde/morel) – Standard ML interpreter with relational extensions
 - [Tutorial D](https://github.com/DaveVoorhis/Rel) – a desktop database management system that implements Date & Darwen's "Tutorial D" database language (Rel)
 - [Datalog Educational System](http://des.sourceforge.net/) – deductive database system with Datalog, SQL, Relational Algebra, Tuple Relational Calculus and Domain Relational Calculus as query languages (DES)
+- [Sift](https://github.com/RCHowell/Sift) – a basic, Relational Algebra based query engine built on top of Apache Arrow, drawing inspiration from Andy Grove's KQuery
 
 ## ORM
 
