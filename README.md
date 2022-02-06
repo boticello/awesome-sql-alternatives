@@ -36,3 +36,16 @@ Query languages which operate on both relational and non-relational data
 ### [Optic API](https://docs.marklogic.com/guide/app-dev/OpticAPI) (Marklogic)
 > The MarkLogic Optic API makes it possible to perform relational operations on indexed values and documents.
 
+## ORM
+
+### Python
+- [Pony](https://github.com/ponyorm/pony/) – writes queries to the database using Python generator expressions and lambdas, analyzing the abstract syntax tree of the expression and translating it into a SQL query (SQLite, MySQL, PostgreSQL and Oracle)
+- [PINQ](https://macropy3.readthedocs.io/en/latest/pinq.html#pinq) – write your database queries like queries on in-memory lists (uses SQLAlchemy)
+
+## Using SQL
+
+### CLI
+- [OctoSQL](https://github.com/cube2222/octosql) – allows you to join, analyse and transform data from multiple databases and file formats using SQL
+- [dsq](https://github.com/multiprocessio/dsq) – execute SQL on JSON, CSV, Excel, Parquet, and more
+- [textql](https://github.com/dinedal/textql) – execute SQL on structured text like CSV or TSV
+- 
